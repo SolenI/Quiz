@@ -60,7 +60,7 @@ let questions = [
 ];
 
 const SCORE_POINTS = 25;
-const MAX_QUESTIONS = questions.length;
+const MAX_QUESTIONS = 5;
 
 StartQuiz = () => {
   questionCounter = 0;
